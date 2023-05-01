@@ -418,7 +418,7 @@ $filesToSearch = @(
             }
         }
         $matched
-    } | Select-Object -ExpandProperty FullName | Out-String | addContent
+    } | Select-Object -ExpandProperty FullName | addContent
 
 }
 
