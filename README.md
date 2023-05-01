@@ -14,12 +14,12 @@ The menu script will display a list of available scripts, their descriptions, an
 
 ## Scripts
 
-1. `EnumDomainLDAP.ps1` - Enumerates the domain using the LDAP protocol.
-2. `EnumDomainWMI.ps1` - Enumerates the domain using the WMI protocol - **Work in Progress**
-3. `EnumLocal.ps1` - Enumerate the local system.
-4. `ACLFinder.ps1` - Searches and enumerates ACLs (Access Control Lists) for a specific user or all users.
-5. `EnumSQL.ps1` - Enumerates SQL Server instances and gathers information.
-6. `EnumLocalAdmin.ps1` - Enumerates local administrator access using various methods (WMI, DCOM, PSRemoting, RPC).
+1. `EnumDomainLDAP` - Enumerates the domain using the LDAP protocol.
+2. `EnumDomainWMI` - Enumerates the domain using the WMI protocol - **Work in Progress**
+3. `EnumLocal` - Enumerate the local system.
+4. `ACLFinder` - Searches and enumerates ACLs (Access Control Lists) for a specific user or all users.
+5. `EnumSQL` - Enumerates SQL Server instances and gathers information.
+6. `EnumLocalAdmin` - Enumerates local administrator access using various methods (WMI, DCOM, PSRemoting, RPC).
 
 ### Modules to load
 
