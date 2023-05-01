@@ -36,6 +36,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Credits
 
-- Authors: Matan Bahar and Yehuda Smirnov
+- Authors: [Matan Bahar](https://www.linkedin.com/in/matan-bahar-66460a1b0/) and [Yehuda Smirnov](https://www.linkedin.com/in/yehuda-smirnov/)
 - Version: 0.2
 - Created for educational purposes only
