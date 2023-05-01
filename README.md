@@ -38,3 +38,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - Authors: [Matan Bahar](https://www.linkedin.com/in/matan-bahar-66460a1b0/) and [Yehuda Smirnov](https://www.linkedin.com/in/yehuda-smirnov/)
 - Version: 0.2 beta
+
+## Proof of Concept
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-zt96xFgiKw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
