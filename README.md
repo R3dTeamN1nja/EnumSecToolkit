@@ -2,8 +2,7 @@
 
 ## Overview
 
-EnumSecToolkit is a PowerShell-based toolkit for enumerating various security aspects of Windows environments. This toolkit combines a set of scripts to gather information about domains, local systems, ACLs, and SQL servers, and aims to simplify the enumeration process. EnumSecToolkit is intended for educational purposes only.
-
+EnumSecToolkit is a PowerShell-based toolkit for enumerating various security aspects of Windows environments. This toolkit combines a set of scripts to gather information about domains, local systems, ACLs, and SQL servers, and aims to simplify the enumeration process.
 ## Usage
 
 To run the EnumSecToolkit, navigate to the EnumSecToolkit folder and execute the `menu.ps1` script in PowerShell.
@@ -37,5 +36,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Credits
 
 - Authors: [Matan Bahar](https://www.linkedin.com/in/matan-bahar-66460a1b0/) and [Yehuda Smirnov](https://www.linkedin.com/in/yehuda-smirnov/)
-- Version: 0.2
-- Created for educational purposes only
+- Version: 0.2 beta
