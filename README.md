@@ -41,4 +41,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Proof of Concept
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-zt96xFgiKw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=-zt96xFgiKw">
+    <img src="https://img.youtube.com/vi/-zt96xFgiKw/0.jpg" alt="IMAGE_DESCRIPTION">
+  </a>
+</div>
