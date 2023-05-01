@@ -23,8 +23,8 @@ The menu script will display a list of available scripts, their descriptions, an
 
 ### Modules to load
 
-7. `LoadADModule.ps1` - Loads the Active Directory PowerShell module.
-8. `LoadSQLServer.ps1` - Loads the SQL Server PowerShell module.
+7. `LoadADModule` - Loads the Active Directory PowerShell module.
+8. `LoadSQLServer` - Loads the SQL Server PowerShell module.
 
 ## Contributing
 
